@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name"><u>CODE.ALL</u></string>
+    <string name="comp">Comp</string>
+    <string name="code_learning">Easy and Fun Code Learning</string>
+    <string name="upgrade">Upgrade your  programming skills with CODE.ALL</string>
+    <string name="page">Pages</string>
+    <string name="next">Next</string>
+    <string name="Skip">Skip</string>
+    <string name="learn">Learn Anytime Anywhere</string>
+    <string name="learn_simulate">Learn and simulate your code any time,anywhere on your device.</string>
+    <string name="choose">Choose the Course You Want</string>
+    <string name="thousand">Thousand of easy and fun course from beginner to expert.</string>
+</resources>
